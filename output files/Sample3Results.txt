@@ -1,0 +1,66 @@
+Katherine Hirsch, Section 07
+---------- Store ----------
+Meat: 6 Beef Chuck, Bacon, Pork Spare Ribs, Pork Chops, Chunk Tuna, Ground Beef
+Fruit: 2 Apples, Grapes
+Vegetable: 0 
+Starch: 2 Potato Salad, SpaghettiO's
+Sweet: 3 Sugar Cookie, Fudge Brownie, Frozen Yogurt
+---------- Orders -----------
+Mike Cannan
+Requests: Sweet Sweet Fruit Meat 
+-----
+Vikki Vegan
+Requests: Vegetable Vegetable Fruit 
+-----
+Suzie Martin
+Requests: Starch Fruit Starch Starch Meat 
+-----
+Don Pillow
+Requests: Starch Vegetable Sweet Fruit 
+-----
+Manny Meatloaf
+Requests: Meat Meat Meat Sweet 
+-----
+Ted Barry
+Requests: Meat Meat Vegetable Starch Meat Fruit 
+-----
+---------- Store ----------
+Meat: 2 Ground Beef, Chunk Tuna
+Fruit: 0 
+Vegetable: 0 
+Starch: 1 Potato Salad
+Sweet: 0 
+---------- Orders -----------
+Mike Cannan
+Items: 
+Sugar Cookie $1.50
+Fudge Brownie $4.99
+Apples $1.99
+Beef Chuck $4.99
+***Total: $13.47
+-----
+Vikki Vegan - Unable to complete order
+Unfilled Requests: Vegetable Vegetable Fruit 
+-----
+Suzie Martin - Unable to complete order
+Unfilled Requests: Starch Meat Starch Fruit Starch 
+-----
+Don Pillow (Partial)
+Unfilled Requests: Vegetable 
+Items: 
+SpaghettiO's $0.98
+Frozen Yogurt $2.59
+Grapes $1.58
+***Total: $5.15
+-----
+Manny Meatloaf (Partial)
+Unfilled Requests: Sweet 
+Items: 
+Bacon $4.29
+Pork Spare Ribs $13.80
+Pork Chops $6.89
+***Total: $24.98
+-----
+Ted Barry - Unable to complete order
+Unfilled Requests: Vegetable Starch Meat Fruit Meat Meat 
+-----
